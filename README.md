@@ -1,6 +1,6 @@
 # Khadija Abbasi — portfolio
 
-React, TypeScript, Vite, Tailwind CSS v4, React Router and Lucide. No external fonts, form delivery service, analytics, or heavyweight visualization engine.
+React, TypeScript, Vite, Tailwind CSS v4, React Router and Lucide. Self-hosted Fraunces and DM Sans fonts; no third-party font requests, form delivery service, analytics, or heavyweight visualization engine.
 
 ## Run
 
@@ -41,3 +41,4 @@ npx vite preview --host 127.0.0.1
 ```
 
 Open the printed URL followed by `/portfolio/`.
+

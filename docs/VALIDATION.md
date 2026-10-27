@@ -17,3 +17,13 @@ correct asset prefixes and GitHub canonical URLs. Browser verification of the
 trailing-slash FieldNest deep link, screenshot load, return-home navigation and
 console passed. GitHub Actions runs the same type/build/budget checks before
 publication. Deployment status is verified separately through GitHub.
+
+## Visual refresh
+
+Removed the initials monogram from header, About illustration and favicon.
+Preserved the section sequence and grid; updated to warm ivory (#FBF5EC),
+burgundy (#873B4F), warm ink (#302523), and coordinated project surfaces.
+Fraunces display and DM Sans body fonts are self-hosted WOFF2 files; SIL Open
+Font License notices are included in public/fonts. Three Latin variable font
+files total 185,756 bytes. Fonts use swap rendering and local fallbacks.
+Homepage browser reflow checks passed at 320/375/768/1024/1440px.
