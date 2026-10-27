@@ -4,4 +4,5 @@ import {StaticRouter} from 'react-router-dom';
 import {App} from './App';
 import {projects} from './data/projects';
 export {projects};
-export function render(path:string){return renderToString(<StaticRouter location={path}><App/></StaticRouter>)}
+export function render(path:string){return renderToString(<StaticRouter basename={import.meta.env.BASE_URL} location={import.meta.env.BASE_URL.replace(/\/$/, "") + path}><App/></StaticRouter>)}
+

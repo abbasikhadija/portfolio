@@ -9,3 +9,11 @@
 - Native details, visible focus styling, semantic landmarks, image alternatives and reduced-motion CSS reviewed. Full screen-reader testing, physical touch-device testing, reduced-motion OS emulation and a complete WCAG audit have not been performed.
 - Static HTML preserves essential narratives with JavaScript unavailable. Interactive simulations require JavaScript. Missing project media retains a source-document link in its caption.
 - Public availability and expected graduation remain content maintenance responsibilities; graduation is explicitly unconfirmed.
+
+## GitHub Pages verification
+
+Pages build tested with `/portfolio/` base: all five prerendered routes contain
+correct asset prefixes and GitHub canonical URLs. Browser verification of the
+trailing-slash FieldNest deep link, screenshot load, return-home navigation and
+console passed. GitHub Actions runs the same type/build/budget checks before
+publication. Deployment status is verified separately through GitHub.
