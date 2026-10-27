@@ -27,3 +27,18 @@ Fraunces display and DM Sans body fonts are self-hosted WOFF2 files; SIL Open
 Font License notices are included in public/fonts. Three Latin variable font
 files total 185,756 bytes. Fonts use swap rendering and local fallbacks.
 Homepage browser reflow checks passed at 320/375/768/1024/1440px.
+
+## Cyberpunk refresh and new contact address
+
+Current theme: near-black (#080C14), bright text (#F0F5FF), cyan (#63F4E7),
+acid yellow (#E7FB70), and pink accents. Space Grotesk headings and DM Sans
+body text are self-hosted. The hero uses an original ImageGen workstation
+illustration; About uses a native SVG circuit illustration. Responsive hero
+assets are 32,298 and 106,086 bytes. See ILLUSTRATIONS.md for provenance/prompt.
+
+All contact links and visible email text now use abbasikhadija52@gmail.com.
+All five routes passed browser reflow at 320/375/768/1024/1440px, including open
+technical disclosures on case studies. Browser console showed no errors/warnings.
+Homepage computed contrast sampling of headings, paragraphs, labels, buttons,
+nav, summaries and diagram text found no sampled element below 4.5:1. This is
+not a complete accessibility audit. Existing reduced-motion behavior remains.
