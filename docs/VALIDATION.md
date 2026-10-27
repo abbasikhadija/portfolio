@@ -42,3 +42,18 @@ technical disclosures on case studies. Browser console showed no errors/warnings
 Homepage computed contrast sampling of headings, paragraphs, labels, buttons,
 nav, summaries and diagram text found no sampled element below 4.5:1. This is
 not a complete accessibility audit. Existing reduced-motion behavior remains.
+
+## Hobby project animation verification — 28 October 2026
+
+Homepage and all four case-study routes passed reflow checks at
+320/375/768/1024/1440px, with detailed scenario disclosures open on case studies.
+Browser checks confirmed SVG packet animation, automatic stage advancement,
+pause stopping CSS motion, Enter-key stepping, and next-step controls on each
+project. Browser console showed no errors/warnings in those flows. Native
+simplified scenarios remain available on each case-study page. Reduced-motion
+logic and CSS were reviewed; OS preference emulation was not performed.
+
+Four project-specific metaphors and color families distinguish the flows while
+sharing the cyberpunk theme. Hero and About motion have independent controls.
+Every project is visibly labeled as a hobby project, with AI assistance and
+existing implementation/deployment limitations retained.
