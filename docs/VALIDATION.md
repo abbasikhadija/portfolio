@@ -57,3 +57,29 @@ Four project-specific metaphors and color families distinguish the flows while
 sharing the cyberpunk theme. Hero and About motion have independent controls.
 Every project is visibly labeled as a hobby project, with AI assistance and
 existing implementation/deployment limitations retained.
+
+## Approved hiring story and progressive disclosure — 29 October 2026
+
+Implemented owner-approved interview copy; provenance is recorded in
+INTERVIEW_CONTENT.md. Personal contributions and manual checks are first-person
+statements confirmed by the owner, distinct from repository implementation and
+reported automated tests. No résumé, independent coding proficiency, concurrency
+trial, Coincela manual check, or formal Face54 acceptance was invented.
+
+Homepage now leads with student identity, full-stack interest, Pakistan location,
+remote junior-role target and project-first navigation. Four static project
+previews have names, descriptions, stacks, case-study and repository links.
+Detailed project animations and controls are absent from the homepage.
+
+Each case study shows an authentic screenshot where available, motivation,
+contribution and actual personal check before four single-level native disclosures:
+abstract flow; implementation; test evidence/limitations; illustrative scenario.
+All are initially closed, with direct source/contact access available beforehand.
+All routes passed browser reflow at 320/375/768/1024/1440px. Keyboard opening of
+flow disclosures passed. Browser console showed no errors/warnings in those flows.
+
+TypeScript/build and static content checks passed. Gzip: JavaScript 97,353 bytes
+(budget 110,000); CSS 11,891 bytes (budget 12,000). Motion now finishes once rather
+than looping. Replay, pause and step controls remain available. Reduced-motion
+source behavior is retained; no OS-level emulation or full screen-reader audit
+was performed for this update.

@@ -43,3 +43,15 @@ npx vite preview --host 127.0.0.1
 Open the printed URL followed by `/portfolio/`.
 
 
+
+## Content and progressive disclosure
+
+Owner-approved biography, hiring preferences and project contributions are in
+`src/data/profile.ts`; repository functionality remains in `src/data/projects.ts`.
+Keep personal checks distinct from reported automated test evidence. Interview
+provenance is documented in `docs/INTERVIEW_CONTENT.md`.
+
+The homepage shows static project previews. Case studies progressively reveal
+animated flows, implementation, testing/limitations, and illustrative scenarios
+through native details. Animations play once, then offer replay. A résumé link
+must wait until the owner supplies the completed résumé.
